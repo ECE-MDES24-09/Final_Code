@@ -1,0 +1,20 @@
+{
+  "blend_file_path" : "MDEObjsw_BoardButtons13.blend",
+  "rotation_step" : 137,
+  "calc" : false,
+  "number_of_renders" : 125,
+  "iterations" : 20,
+  "input_dir" : "ActualFinalImages",
+  "output_dir" : "ActualFinalImagesSeg",
+  "batch_dir" : "db1batches",
+  "augmentation_options" : "augmentsettings.json",
+  "drawing" : false,
+  "cleaning" : false,
+  "augment" : false,
+  "segment" : false,
+  "train" : true,
+  "batch" : false,
+  "send" : false,
+  "split" : false,
+  "split_ratios" : [0.7, 0.2, 0.1]
+}

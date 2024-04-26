@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 11
+names: ['BigBox', 'BlueZone', 'Button', 'GreenZone', 'Nozzle', 'RedZone', 'Rocket', 'SmallBox', 'StartZone', 'WhiteLine', 'YellowLine']
